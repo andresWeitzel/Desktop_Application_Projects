@@ -11,7 +11,7 @@
 <div align="center">
 <p align="center">
 
- ### { Aplicación de Escritorio Java 8 SE para la Gestión de Empleados }
+ ### Aplicación de Escritorio Java 8 SE para la Gestión de Empleados.
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png">
   
@@ -55,7 +55,7 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación de Escritorio Java 8 SE para el Control de Fármacos en Chimpancés }
+ ### Aplicación de Escritorio Java 8 SE para el Control de Fármacos en Chimpancés.
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" >
   
@@ -98,7 +98,7 @@
 <div align="center">
 <p align="center">
   
-### { Aplicación de Escritorio Java 8 SE para la Gestión de Gastos Personales  }
+### Aplicación de Escritorio Java 8 SE para la Gestión de Gastos Personales.
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png">
 
