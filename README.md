@@ -8,7 +8,7 @@
     <a href="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/translations/README.es.md" target="_blank">
       <img src="assets/img/translations/arg-flag.jpg" width="10%" height="10%" />
   </a> 
-   <a href="https://github.com/andresWeitzel/Proyectos_Desktop_App/blob/master/README.md" target="_blank">
+   <a href="README.md" target="_blank">
       <img src="assets/img/translations/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </div>
