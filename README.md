@@ -47,7 +47,7 @@ Central repository for Desktop Application projects.
 
  <br>
  
-* [Java 8 SE Desktop Application for Employee Management](#grpc-protobuf-api-for-the-integration-of-ipwhoisio-services-implemented-with-nodejs-expressjs-etc-) [ Nodejs, Express, others ]
+* [Java 8 SE Desktop Application for Employee Management](#java-8-se-desktop-application-for-employee-management-) [ Java Swing, Mysql, others ]
 
 <br>
 
