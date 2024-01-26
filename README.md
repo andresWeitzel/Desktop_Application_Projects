@@ -15,7 +15,7 @@
 
 <div align="center">
   
-##  <img width="48" height="42" src="assets/gifs/desktop.gif" />  Desktop App
+##  <img width="40" height="35" src="assets/gifs/desktop.gif" />  Desktop App
 
 </div>  
 
