@@ -29,7 +29,7 @@ Central repository for Desktop Application projects.
 
  * Languages : Java, others.
  * Frameworks : Hibernate, others.
- * Technologies : Nodejs, others.
+ * Technologies : Java SE, Java EE, others.
  * SGDB : MySQL, PostgreSQL, others.
  * Libraries / Dependencies : mysql-connector, JFreeChart, JCommon,  others.
  * Tools : Maven, Vsc, Git, Postman, Xampp, others.
@@ -47,7 +47,7 @@ Central repository for Desktop Application projects.
 
  <br>
  
-* [gRPC protobuf api for the integration of IPWHOIS.IO services](#grpc-protobuf-api-for-the-integration-of-ipwhoisio-services-implemented-with-nodejs-expressjs-etc-) [ Nodejs, Express, others ]
+* [Java 8 SE Desktop Application for Employee Management](#grpc-protobuf-api-for-the-integration-of-ipwhoisio-services-implemented-with-nodejs-expressjs-etc-) [ Nodejs, Express, others ]
 
 <br>
 
@@ -59,28 +59,26 @@ Central repository for Desktop Application projects.
  
  <br>
  
+ <!------Start Java 8 App Employee Management------>
 
 <div align="center">
-<p align="center">
 
- ### Aplicación de Escritorio Java 8 SE para la Gestión de Empleados.
+ ### Java 8 SE Desktop Application for Employee Management. [🔝](#index-)
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png">
-  
-  ###  Repositorio
-  
+<a href="https://github.com/andresWeitzel/Gestor_de_Empleados" target="_blank">
+ <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png" >
+</a>
+
+### [[Repository]](https://github.com/andresWeitzel/Gestor_de_Empleados)
+
  <div style="display: inline-block;"> 
-   <div>
   <a href="https://github.com/andresWeitzel/Gestor_de_Empleados">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
  </div>
    
- ###  Tecnologías Empleadas
+###  Technology Stack Used
   
-  
-</p>
-
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
@@ -89,17 +87,16 @@ Central repository for Desktop Application projects.
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
-  
-  
-  
- </br>
-  
- </br>
- 
- </br>
+</div>
+</div>
+   <!------ End Java 8 App Employee Management------>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
  
  
  
