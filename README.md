@@ -5,7 +5,7 @@
 <br>
 
 <div align="right">
-    <a href="https://github.com/andresWeitzel/RPC_MICROSERVICES_PROJECTS/blob/master/translations/README.es.md" target="_blank">
+    <a href="translations/README.es.md" target="_blank">
       <img src="assets/img/translations/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="README.md" target="_blank">
