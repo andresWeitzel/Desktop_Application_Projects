@@ -13,15 +13,13 @@
   </a> 
 </div>
 
-
-
 <div align="center">
-
-## <img width="30" height="30" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Aplicaciones de Escritorio
+  
+##  <img width="48" height="42" src="assets/gifs/desktop.gif" />  Desktop App
 
 </div>  
 
-
+</br>
 
 </br>
 
