@@ -48,6 +48,7 @@ Central repository for Desktop Application projects.
  <br>
  
 * [Java 8 SE Desktop Application for Employee Management](#java-8-se-desktop-application-for-employee-management-) [ Java Swing, Mysql, others ]
+* README on construction and maintenance.
 
 <br>
 
