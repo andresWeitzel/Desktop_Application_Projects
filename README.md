@@ -1,5 +1,5 @@
 <div align = "center">
-<img src="./doc/assets/img/projects/desktop-app.jpg" >
+<img src="./doc/assets/img/projects/desktop-app.png" >
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 
 <div align="center">
   
-##  <img width="35" height="25" src="./doc/assets/gifs/desktop.gif" />  Desktop App
+##  <img width="36" height="48" src="./doc/assets/gifs/desktop.gif" />  Desktop App
 
 </div>  
 
