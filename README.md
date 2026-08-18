@@ -26,12 +26,12 @@ This repository brings together desktop projects built with different approaches
  
  <br>
 
- * Languages : Java, others.
- * Frameworks : Hibernate, others.
- * Technologies : Java SE, Java EE, others.
+ * Languages : Java, C#, others.
+ * Frameworks : Hibernate, Windows Forms, others.
+ * Technologies : Java SE, Java EE, .NET, others.
  * SGDB : MySQL, PostgreSQL, others.
  * Libraries / Dependencies : mysql-connector, JFreeChart, JCommon,  others.
- * Tools : Maven, Vsc, Git, Postman, Xampp, others.
+ * Tools : Maven, Vsc, Git, Postman, Xampp, DBeaver, others.
    
  <br>
 
@@ -48,6 +48,16 @@ This repository brings together desktop projects built with different approaches
  <br>
 
 #### 🗂️ Projects
+
+* [Sports Club Management ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#sports-club-management)
+
+  <div align="left">
+    <img width="22" height="22" src="./doc/assets/icons/backend/others/png/csharp.png" />
+    <img width="24" height="24" src="./doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="./doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="./doc/assets/icons/database/png/dbeaver.png" />
+    <img width="23" height="23" src="./doc/assets/icons/devops/png/git.png" />
+  </div>
 
 * [Employee Management and Reporting ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#employee-management-and-reporting)
 
@@ -95,6 +105,44 @@ This repository brings together desktop projects built with different approaches
 
 </div>
 
+<br>
+
+ <!------START sports-club-management------>
+
+<div align="center">
+  
+<a id="sports-club-management"></a>
+### Sports Club Management ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index)
+
+<a href="https://github.com/andresWeitzel/DSOO_ClubDeportivo" target="_blank">
+  <img src="./doc/assets/img/projects/Sports Club Management.png" >
+</a>
+
+  <div align="right">
+    <img width="22" height="22" src="./doc/assets/icons/backend/others/png/csharp.png" />
+    <img width="24" height="24" src="./doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="./doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="./doc/assets/icons/database/png/dbeaver.png" />
+    <img width="23" height="23" src="./doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/DSOO_ClubDeportivo" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+   
+<!------END sports-club-management------->
+
+</div>
+
+<br>
+<br>
+<br> 
 <br>
 
  <!------START employee-management------>
